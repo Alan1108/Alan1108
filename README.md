@@ -10,7 +10,7 @@
 *   🌱 I’m currently learning DevOps
 *   ⚡ Fun fact: I really love videogames 🎮
 
-<h3 align="left">Languages Technologies and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
   <a> </a>
   <img
@@ -63,7 +63,9 @@
       height="40"
     />
   </a>
-
+</p>
+<h3 align="left">Frameworks</h3>
+<p>
   <a>
     <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
@@ -99,7 +101,9 @@
       height="40"
     />
   </a>
-
+</p>
+<h3 align="left">Technologies</h3>
+<p>
   <a>
     <img
       src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
@@ -117,7 +121,9 @@
       height="40"
     />
   </a>
-
+ </p>
+<h3 align="left">Cloud Platforms</h3>
+<p>
   <a>
     <img
       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
@@ -147,22 +153,25 @@
 
   <a>
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
       src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
       alt="gcp"
       width="40"
       height="40"
     />
   </a>
-
+  
+  </p>
+<h3 align="left">Tools</h3>
+<p>
+  <a>
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a>
     <img
       src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
