@@ -1,182 +1,72 @@
-### **Hello there 👋**
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Alan1108&color=553878&style=for-the-badge" alt="Alan1108" /> </p>
+# Hi there, I'm Alan 👋 
 
 <p align="center">
- <img src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif">
+  <img src="https://komarev.com/ghpvc/?username=Alan1108&color=553878&style=for-the-badge" alt="Alan1108" />
 </p>
 
+<p align="center">
+  <img src="https://c.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" width="400">
+</p>
 
-*   🔭 I’m currently working at ioet
-*   ⚡ Fun fact: I really love videogames 🎮
+---
 
-<h3 align="left">Languages</h3>
+### 🚀 About Me
+I am a **Software Engineer** currently building impactful solutions. I enjoy bridging the gap between clean, efficient code and robust cloud infrastructure.
+
+- 🔭 **Currently working on:** Enterprise-grade applications and cloud-native solutions.
+- ⚙️ **Tech Stack:** Specialized in **Fullstack Development** with a strong focus on **DevOps/Infrastructure**.
+- 🎮 **Fun fact:** Massive videogame enthusiast. If I'm not coding, I'm likely exploring a digital world.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <!--- <img src="https://github-readme-stats-fast.vercel.app/api?username=Alan1108&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Alan's GitHub Stats" /> --->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alan1108&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠 My Toolbox
+
+#### **Languages & Frameworks**
 <p align="left">
-  <a> </a>
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
-    width="40"
-    height="40"
-  />
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
+#### **Backend & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</p>
 
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
+#### **Tools & Specialized**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-553878?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-  <a>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
-  <a>
-    <img
-      src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"
-      alt="C++"
-      width="40"
-      height="40"
-    />
+### 📫 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/alanibm" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<h3 align="left">Frameworks</h3>
-<p>
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
 
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h3 align="left">Technologies</h3>
-<p>
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"
-      alt="ansible"
-      width="40"
-      height="40"
-    />
-  </a>
- 
- <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"
-      alt="terraform"
-      width="40"
-      height="40"
-    />
-  </a>
- </p>
-<h3 align="left">Cloud Platforms</h3>
-<p>
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  </p>
-<h3 align="left">Tools</h3>
-<p>
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a>
-    <img
-      src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
-      alt="npm"
-      width="40"
-      height="40"
-    />
-  </a>
+---
+<p align="center"> 
+  <i>"May the code be with you."</i>
 </p>
